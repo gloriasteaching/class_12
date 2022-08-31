@@ -1,0 +1,17 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=";Y.IzeEd5,dRNTtVds;Z" x="0" y="0"><statement name="HANDLER"><block type="game_dialog_set_frame" id="`vX3^ZLNQ296{8NynFSY"><value name="frame"><shadow type="dialog_image_picker" id="]V2oVhb#}Ue#5#+Il]#("><field name="img">img`
+3 3 3 3 3 9 9 9 9 9 3 3 3 3 3 
+3 . . . 3 9 . . . 9 3 . . . 3 
+3 . . . 3 9 . . . 9 3 . . . 3 
+3 . . . 3 9 . . . 9 3 . . . 3 
+3 3 3 3 3 9 9 9 9 9 3 3 3 3 3 
+9 9 9 9 9 3 3 3 3 3 9 9 9 9 9 
+9 . . . 9 3 3 3 3 3 9 . . . 9 
+9 . . . 9 3 3 3 3 3 9 . . . 9 
+9 . . . 9 3 3 3 3 3 9 . . . 9 
+9 9 9 9 9 3 3 3 3 3 9 9 9 9 9 
+3 3 3 3 3 9 9 9 9 9 3 3 3 3 3 
+3 . . . 3 9 . . . 9 3 . . . 3 
+3 . . . 3 9 . . . 9 3 . . . 3 
+3 . . . 3 9 . . . 9 3 . . . 3 
+3 3 3 3 3 9 9 9 9 9 3 3 3 3 3 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"]V2oVhb#}Ue#5#+Il]#("}}</data></shadow></value><next><block type="game_show_long_text" id="X-aV,:}h_D^j@9on2+:J"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="RMvj1$ww?ymp7ur_KJ2x"><field name="TEXT">What R U waiting for?</field></shadow></value><next><block type="playMelody" id="XKpW_(gT)sTiD[]P-l!v"><value name="melody"><shadow type="melody_editor" id="93U0M`E+X)v%Al}*2M?}"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="GGe9LWf64H!pRc%]cyPq"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></next></block></statement></block></xml>
